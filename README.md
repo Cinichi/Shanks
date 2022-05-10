@@ -5,7 +5,7 @@ I ᴡᴀs Mᴀᴅᴇ ʙʏ [•@Shanks_Kun•](https://t.me/Shanks_Kun)
   <img src="https://te.legra.ph/file/64104b32c98a8a050633b.jpg">
 </p>
 
-# [•Boa Hancock Support•](https://t.me/TeamWizardz)
+# [•Red Hair Support•](https://t.me/TeamWizardz)
 # How to Create Bot Using This Repo?
 * Create GitHub Account Refer to YouTube
 * Fork this repo or copy this repo url then go to GitHub Respiratory Then click new Respiratory then click import Respiratory then paste the URL
