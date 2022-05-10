@@ -11,7 +11,7 @@ I ᴡᴀs Mᴀᴅᴇ ʙʏ [•@Shanks_Kun•](https://t.me/Shanks_Kun)
 * Fork this repo or copy this repo url then go to GitHub Respiratory Then click new Respiratory then click import Respiratory then paste the URL
 * After that Edit Some Basic Information which is in main.py , userinfo.py , disasters.py , alive.py etc 
 * Then get telethon string session search in YouTube how to get one.
-* Fill are mandatory vars. If u don't get then ask me in [Anime Alliance](https://t.me/straydogs) by tagging @zerohisoka
+* Fill are mandatory vars. If u don't get then ask me in [ Shanks ](https://t.me/Shankssama)
 * Now  Deploy the bot 
 * Start your Bot and enjoy.
 # Deploy to Heroku
