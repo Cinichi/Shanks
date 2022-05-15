@@ -22,13 +22,7 @@ I ᴡᴀs Mᴀᴅᴇ ʙʏ [•@Shanks_Kun•](https://t.me/Shanks_Kun)
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Shankssama/Shanks"> <img src="https://te.legra.ph/file/26f04667e89aba86ffd70.jpg"/></a></p>
 
 # Using Lewd Shanks Images Some are Here
-
-
 <p align="center"><a href='https://heroku.com/deploy?template=https://github.com/Shankssama/Shanks"> <img src="https://te.legra.ph/file/66a7c070e895d38486068.jpg"/></a></p>
-
-
-
-
 
 <p align="center">
   <img src="https://te.legra.ph/file/5fc5bb8969d2327efa381.mp4">
