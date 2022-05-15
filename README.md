@@ -21,7 +21,7 @@ I ᴡᴀs Mᴀᴅᴇ ʙʏ [•@Shanks_Kun•](https://t.me/Shanks_Kun)
 # Fᴜᴄᴋɪɴɢ Bɪᴛᴄʜ
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Shankssama/Shanks"> <img src="https://te.legra.ph/file/26f04667e89aba86ffd70.jpg"/></a></p>
 
-# [Deploy To Heroku] (https://telegra.ph/After-Tsunades-Obscene-Beach-05-15-2)
+# [Deploy To Heroku](https://telegra.ph/After-Tsunades-Obscene-Beach-05-15-2)
  
 
 
