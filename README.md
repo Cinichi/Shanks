@@ -15,7 +15,8 @@ I ᴡᴀs Mᴀᴅᴇ ʙʏ [•@Shanks_Kun•](https://t.me/Shanks_Kun)
 * Now  Deploy the bot 
 * Start your Bot and enjoy.
 # Fᴜᴄᴋ Yᴏᴜʀ
-<p align="center"><a <img src="https://te.legra.ph/file/d28d43c2394eb3cc2faaf.png"/></a></p>
+<p align="center">
+                  <img src="https://te.legra.ph/file/d28d43c2394eb3cc2faaf.png"/></a></p>
 
 # Fᴜᴄᴋɪɴɢ Bɪᴛᴄʜ
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Shankssama/Shanks"> <img src="https://telegra.ph/After-Tsunades-Obscene-Beach-05-15-2"/></a></p>
