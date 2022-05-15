@@ -18,10 +18,9 @@ I ᴡᴀs Mᴀᴅᴇ ʙʏ [•@Shanks_Kun•](https://t.me/Shanks_Kun)
 <p align="center">
                   <img src="https://te.legra.ph/file/d28d43c2394eb3cc2faaf.png"/></a></p>
 
-                   <img src="https://te.legra.ph/file/cee05ca6436870705a06d.jpg"/></a></p>
-
 # Fᴜᴄᴋɪɴɢ Bɪᴛᴄʜ
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Shankssama/Shanks"> <img src="https://te.legra.ph/file/26f04667e89aba86ffd70.jpg"/></a></p>
+<p align="center"><a img src="https://te.legra.ph/file/cee05ca6436870705a06d.jpg"/></a></p>
 
 # [Deploy To Heroku](https://te.legra.ph/Deploy-To-Heroku-05-15)
 
