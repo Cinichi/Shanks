@@ -14,18 +14,11 @@ I ᴡᴀs Mᴀᴅᴇ ʙʏ [•@Shanks_Kun•](https://t.me/Shanks_Kun)
 * Fill are mandatory vars. If u don't get then ask me in [ Shanks ](https://t.me/Shanks_Kun)
 * Now  Deploy the bot 
 * Start your Bot and enjoy.
-# Fᴜᴄᴋ Yᴏᴜʀ
-<p align="center">
-                  <img src="https://te.legra.ph/file/d28d43c2394eb3cc2faaf.png"/></a></p>
-
-<p align="center">
-                  <img src="https://te.legra.ph/file/cee05ca6436870705a06d.jpg"/></a></p>
-
-# [Deploy To Heroku](https://te.legra.ph/Deploy-To-Heroku-05-15)
 
 # Deploy Link 👇👇
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Shankssama/Shanks"> <img src="https://te.legra.ph/file/33cb191d6c54a350121d6.jpg"/></a></p>
- 
+<p align="center"><a href="https://heroku.com/deploy?template=https://guthub.com/Shankssama/Shanks"> <img src="https://te.legra.ph/file/324e5fd2cf9a6eb8ba322.jpg"/></a></p>
 
-
+# Shanks
+<p align="center"><a text=" Hello! I am [Shanks](https://t.me/Shanks_Kun). I Made This Repo From Yamtaoxrobot. 
 
