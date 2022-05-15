@@ -22,5 +22,5 @@ I ᴡᴀs Mᴀᴅᴇ ʙʏ [•@Shanks_Kun•](https://t.me/Shanks_Kun)
 # Shanks
 Hello! I am [Shanks](https://t.me/Shanks_Kun).
  I Made This Repo From Yamtaoxrobot.
-If You Want To Deploy. Change Username at Shankssama.  
+If You Want To Deploy. Change Username at Shankssama from Given Repo Link.
 
