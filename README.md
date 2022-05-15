@@ -24,7 +24,7 @@ I ᴡᴀs Mᴀᴅᴇ ʙʏ [•@Shanks_Kun•](https://t.me/Shanks_Kun)
 # [Deploy To Heroku](https://te.legra.ph/Deploy-To-Heroku-05-15)
 
 # Deploy Link 👇👇
-  <p align="center"><a href"https://heroku.com/deploy?template=https://github.com/Shankssama/Shanks"> <img src="https://te.legra.ph/file/33cb191d6c54a350121d6.jpg"/></a></p>
+<p align="center"><a href"https://heroku.com/deploy?template=https://github.com/Shankssama/Shanks"> <img src="https://te.legra.ph/file/33cb191d6c54a350121d6.jpg"/></a></p>
  
 
 
