@@ -14,10 +14,11 @@ I ᴡᴀs Mᴀᴅᴇ ʙʏ [•@Shanks_Kun•](https://t.me/Shanks_Kun)
 * Fill are mandatory vars. If u don't get then ask me in [ Shanks ](https://t.me/Shanks_Kun)
 * Now  Deploy the bot 
 * Start your Bot and enjoy.
+# Fᴜᴄᴋ Yᴏᴜʀ
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Shankssama/Shanks"> <img src="https://te.legra.ph/file/d28d43c2394eb3cc2faaf.png"/></a></p>
+
 # Deploy to Heroku
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Shankssama/Shanks"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku width= "220" Height= "40"/></a></p>
-
-
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Shankssama/Shanks"> <vid src="https://te.legra.ph/file/5cd8696145e62c079b4ea.mp4"/></a></p>
 # Using Lewd Shanks Images Some are Here
 
 
