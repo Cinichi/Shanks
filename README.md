@@ -20,5 +20,7 @@ I ᴡᴀs Mᴀᴅᴇ ʙʏ [•@Shanks_Kun•](https://t.me/Shanks_Kun)
 <p align="center"><a href="https://heroku.com/deploy?template=https://guthub.com/Shankssama/Shanks"> <img src="https://te.legra.ph/file/324e5fd2cf9a6eb8ba322.jpg"/></a></p>
 
 # Shanks
-<p align="center"><a text=" Hello! I am [Shanks](https://t.me/Shanks_Kun). I Made This Repo From Yamtaoxrobot. 
+Hello! I am [Shanks](https://t.me/Shanks_Kun).
+ I Made This Repo From Yamtaoxrobot.
+If You Want To Deploy. Change Username at Shankssama.  
 
