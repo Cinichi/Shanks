@@ -16,8 +16,8 @@ I ᴡᴀs Mᴀᴅᴇ ʙʏ [•@Shanks_Kun•](https://t.me/Shanks_Kun)
 * Start your Bot and enjoy.
 
 # Deploy Link 👇👇
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Shankssama/Shanks"> <img src="https://te.legra.ph/file/33cb191d6c54a350121d6.jpg"/></a></p>
-<p align="center"><a href="https://heroku.com/deploy?template=https://guthub.com/Shankssama/Shanks"> <img src="https://te.legra.ph/file/324e5fd2cf9a6eb8ba322.jpg"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Cinichi/Shanks"> <img src="https://te.legra.ph/file/33cb191d6c54a350121d6.jpg"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://guthub.com/Cinichi/Shanks"> <img src="https://te.legra.ph/file/324e5fd2cf9a6eb8ba322.jpg"/></a></p>
 
 # Shanks
 Hello! I am [Shanks](https://t.me/Shanks_Kun).
