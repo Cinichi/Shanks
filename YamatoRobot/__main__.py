@@ -623,10 +623,10 @@ def shasa_callback_data(update, context):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="sᴜᴘᴘᴏʀᴛ", url=f"https://telegram.dog/{SUPPORT_CHAT}"
+                            text="sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/ShanksSupport"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Redhair_Supoort"
+                            text="ᴜᴘᴅᴀᴛᴇs", url="https://t.me/ShanksUpdates"
                         ),
                     ],
                     [
@@ -644,17 +644,17 @@ def shasa_callback_data(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="ᴅᴇᴠ", url="t.me/shanks_kun"),
+                        InlineKeyboardButton(text="Gᴏd", url="t.me/shanks_kun"),
                         InlineKeyboardButton(
-                            text="ɢɪᴛʜᴜʙ", url="https://github.com/Shankssama"
+                            text="Aniʍᴇ Chᴀᴛ [AFC]", url="https://t.me/Anime_Fandoms_Chat"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠ²", url="https://t.me/Shanks_Kun"
+                            text="Suᴩᴩᴏrᴛ", url="https://t.me/ShanksSupport"
                         ),
                         InlineKeyboardButton(
-                            text="ʀᴇᴅʟɪᴏɴ", url="https://t.me/Redhair_updates"
+                            text="ʀᴇᴅʟɪᴏɴ", url="https://t.me/Shanksupdates"
                         ),
                     ],
                     [
@@ -931,13 +931,13 @@ def main():
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
             dispatcher.bot.sendMessage(
-                f"@{SUPPORT_CHAT}",
-                f"I Am Ready To Work [{GROUP_START_IMG}]",
+                f"@ShanksSupport",
+                f"I Am Ready To Work [https://te.legra.ph/file/ece230a3a5655ca7964b0.mp4]",
                 parse_mode=ParseMode.MARKDOWN,
             )
         except Unauthorized:
             LOGGER.warning(
-                "Bot isnt able to send message to support_chat, go and check!",
+                "Bot isnt able to send message to @ShanksSupport, go and check!",
             )
         except BadRequest as e:
             LOGGER.warning(e.message)
